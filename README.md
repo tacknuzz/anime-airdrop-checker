@@ -21,6 +21,9 @@ It works by following the steps of the official online checker [https://www.anim
 ## Installation
 
 1. **Clone or download** this repository.  
+```bash
+   git clone https://github.com/tacknuzz/anime-airdrop-checker.git
+```
 2. **Install Node.js** if you haven’t already. [Download Node.js here](https://nodejs.org/).
 3. **Navigate** to the folder containing the `index.js` in your terminal.  (Or double click the `start.bat` if you are on windows)
 4. **Install required npm packages**:
