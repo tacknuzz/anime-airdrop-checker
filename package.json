@@ -1,0 +1,31 @@
+{
+  "name": "anime-multi-checker",
+  "version": "1.0.0",
+  "description": "Multi checker tool for Anime token airdrop eligibility.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "keywords": [
+    "ethereum",
+    "azuki",
+    "evm",
+    "airdrop",
+    "anime",
+    "checker",
+    "batch",
+    "bulk",
+    "crypto",
+    "nft",
+    "script",
+    "program"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "colors": "~1.3.3",
+    "node-fetch": "^3.3.2"
+  }
+}
